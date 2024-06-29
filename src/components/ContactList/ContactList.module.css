@@ -5,5 +5,5 @@
   gap: 10px;
 }
 .item {
-  min-width: calc((100% - 30px) / 4);
+  min-width: fit-content;
 }
